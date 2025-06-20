@@ -27,6 +27,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### spusteni Testu ###
+
 ```shell
 robot -d results -i "smoke" Tests\collabim_test.robot  
 ```
