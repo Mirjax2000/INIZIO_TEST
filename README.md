@@ -10,8 +10,7 @@ git clone https://github.com/Mirjax2000/INIZIO_TEST.git
 <h3>v adresari spustit</h3> 
 <p>windows: .venv\Scripts\activate</p>
 <p>linux/mac : source .venv/bin/activate</p>
-
-pip install -r requirements.txt
+<p>pip install -r requirements.txt</p>
 
 
 
