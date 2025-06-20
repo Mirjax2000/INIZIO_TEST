@@ -5,20 +5,24 @@ Selenium library
 ## how to install ##
 python needed
 
+```shell
 git clone https://github.com/Mirjax2000/INIZIO_TEST.git
+```
 
 <h3>v adresari spustit</h3> 
 
-### windows: ###
+### for windows: ###
 
 ```shell
 .venv\Scripts\activate
 ```
-### linux/mac: ###
+### for linux/mac: ###
 
 ```shell
 source .venv/bin/activate
 ```
+### instalace knihoven ###
+
 ```shell
 pip install -r requirements.txt
 ```
