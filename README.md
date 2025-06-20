@@ -12,7 +12,8 @@ git clone https://github.com/Mirjax2000/INIZIO_TEST.git
 <p>linux/mac : source .venv/bin/activate</p>
 <p>pip install -r requirements.txt</p>
 
-
+shell
+robot -d results -i "smoke" Tests\collabim_test.robot  
 
 
 
