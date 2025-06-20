@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+### robotframework ###
+log.html
+output.xml
+report.html
+selenium-screenshot-*.png
