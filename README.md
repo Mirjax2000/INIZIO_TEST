@@ -8,6 +8,7 @@ python needed
 git clone https://github.com/Mirjax2000/INIZIO_TEST.git
 
 <h3>v adresari spustit</h3> 
+
 ### windows: ###
 
 ```shell
