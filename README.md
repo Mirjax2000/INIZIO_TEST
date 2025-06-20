@@ -9,10 +9,12 @@ git clone https://github.com/Mirjax2000/INIZIO_TEST.git
 
 <h3>v adresari spustit</h3> 
 ### windows: ###
+
 ```shell
 .venv\Scripts\activate
 ```
-###linux/mac:###
+### linux/mac: ###
+
 ```shell
 source .venv/bin/activate
 ```
